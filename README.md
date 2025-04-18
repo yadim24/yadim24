@@ -1,4 +1,5 @@
 <div id="header" align="center">
+<h2 align="center">Frontend developer</h2>
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenNlaWllcW0wdXQ1MmhqZHFjdmE1cWdqYmQ3c3h0dnNzNnJkNmNobiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
@@ -6,7 +7,6 @@
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
 </div>
-<h2 align="center">Frontend developer</h2>
 
 ###  Привет! Меня зовут Дмитрий, я - фронтенд разработчик.
 
