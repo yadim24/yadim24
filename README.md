@@ -6,11 +6,11 @@
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
 </div>
-<h3 align="center">Frontend developer</h3>
+<h2 align="center">Frontend developer</h2>
 
 ##
 
-##  Привет! Меня зовут Дмитрий, я - фронтенд разработчик.
+###  Привет! Меня зовут Дмитрий, я - фронтенд разработчик.
 
 <!--
 **yadim24/yadim24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
