@@ -8,8 +8,8 @@
 </div>
 
 ##
-<h3 align="center">Привет! 👋 Меня зовут Дмитрий.</h3>
-Я - фронтенд разработчик.
+<h3 align="center">Frontend developer</h3>
+## Привет! Меня зовут Дмитрий, я - фронтенд разработчик.
 
 <!--
 **yadim24/yadim24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
