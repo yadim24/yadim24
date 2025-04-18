@@ -7,6 +7,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
 </div>
+
 <p  align="center">Привет!</p>
 <p  align="center">Меня зовут Дмитрий, я - фронтенд разработчик.</p>
 
