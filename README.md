@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzlodHVrM3g4czZmeGFqOXk2dmxwdGI2YWlpd3ljODR5YXcwbGNkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="100"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenNlaWllcW0wdXQ1MmhqZHFjdmE1cWdqYmQ3c3h0dnNzNnJkNmNobiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="120"/>
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/yadim24">
