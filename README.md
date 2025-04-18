@@ -1,8 +1,9 @@
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzlodHVrM3g4czZmeGFqOXk2dmxwdGI2YWlpd3ljODR5YXcwbGNkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="200"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzlodHVrM3g4czZmeGFqOXk2dmxwdGI2YWlpd3ljODR5YXcwbGNkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="100"/>
 </div>
 
-## Hi there 👋
+## Привет! 👋
+Я - фронтенд разработчик. В данное время работаю над тремя коммерческими проектами в компании Полипак, постепенно расширяя функционал каждого из них.
 
 <!--
 **yadim24/yadim24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
