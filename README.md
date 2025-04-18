@@ -9,12 +9,12 @@
 </div>
 
 
-### :man_technologist: Обо мне :
+#### :man_technologist: Обо мне :
 
-#### Меня зовут Дмитрий. Я - фронтенд разработчик.
+##### Меня зовут Дмитрий. Я - фронтенд разработчик.
 
 
-### :hammer_and_wrench: Мой стэк :
+#### :hammer_and_wrench: Мой стэк :
 
 <!--
 **yadim24/yadim24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
