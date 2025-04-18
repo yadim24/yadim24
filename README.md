@@ -6,9 +6,9 @@
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
 </div>
+<h3 align="center">Frontend developer</h3>
 
 ##
-<h3 align="center">Frontend developer</h3>
 
 ##  Привет! Меня зовут Дмитрий, я - фронтенд разработчик.
 
